@@ -7,7 +7,7 @@
 // Edit the opacity of the colour overlay - determine how visible the background images/video are between '0' and '1.0'
 
 var preloader = 'on';
-var preloaderGIF = 'off';
+var preloaderGIF = 'on';
 
 var bgImgOverlay = 'on';
 var bgOverlayColour = '#000000';
