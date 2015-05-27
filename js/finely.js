@@ -1,9 +1,3 @@
-// Functions for FINELY Responsive Under Construction Template
-// Version 1.0
-// By CosmicLabs
-// Available for purchase from Themeforest.net
-// http://themeforest.net/user/cosmiclabs/portfolio
-
 function animateInStart() {
 	if ($('html').hasClass('ie9')) {
 		$('.section-main .header').fadeIn(1000);

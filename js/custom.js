@@ -1,34 +1,3 @@
-/*
-  ____                    _      _          _         
- / ___|___  ___ _ __ ___ (_) ___| |    __ _| |__  ___ 
-| |   / _ \/ __| '_ ` _ \| |/ __| |   / _` | '_ \/ __|
-| |__| (_) \__ \ | | | | | | (__| |__| (_| | |_) \__ \
- \____\___/|___/_| |_| |_|_|\___|_____\__,_|_.__/|___/
-                                                   
-
-Finely - Responsive Under Construction Template
-Version 1.1.5 - Last updated 14/12/2014
-Copyright 2014 CosmicLabs
-
-This template and more are available to purchase on Themeforest.net
-http://themeforest.net/user/cosmiclabs/portfolio
-
-For template support, see the documentation files or get in touch with us.
-Support site: http://cosmiclabs.co.uk/support
-Support email: support@cosmiclabs.co.uk
-
-*/
-
-// ************************************************************* //
-// SETTINGS for Finely Responsive Under Construction Template
-// ************************************************************* //
-
-
-
-// To setup the template, change the variables below
-// Follow instructions in code comments or see documentation for more detail
-
-
 // ************************************************************* //
 // ==== GENERAL SETTINGS ====
 // Enable or disable the preloader by changing var preloader to 'on' or 'off' (disabling it is not reccomended)
