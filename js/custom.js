@@ -25,9 +25,6 @@ var bgOverlayOpacity = '100';
 
 var slideshowBackgroundURLS = [
 	"images/background1.jpg",
-	"images/background1.jpg",
-	"images/background1.jpg",
-	"images/background1.jpg",
 ];
 
 var slideshowFade = 1000;
